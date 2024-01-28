@@ -1,0 +1,1 @@
+# pneumonidaDetection_xRay
